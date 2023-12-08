@@ -1,2 +1,3 @@
 # EducaDev
-Site para entrega da matéria de programação Web
+plataforma desenvolvida para projeto acadêmico confira com o link!
+janainaacosta.github.io/EducaDev/
